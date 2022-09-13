@@ -9,11 +9,11 @@ import (
 
 var Module = fx.Options(
 	util.Module,
-	routes.Module,
 	handlers.Module,
-	services.Module,
-	repositories.Module,
-	middlewares.Module,
+	// routes.Module,
+	// services.Module,
+	// repositories.Module,
+	// middlewares.Module,
 	fx.Invoke(register),
 )
 
@@ -22,8 +22,8 @@ func register(
 	cfg *config.Config,
 	logger *util.Logger,
 	handler *util.RequestHandler,
-	route routes.Routes,
-	middleware middlewares.Middlewares,
+	// route routes.Routes,
+	// middleware middlewares.Middlewares,
 ) {
 	lifecycle.Append(fx.Hook{
 		OnStart: func(context.Context) error {
