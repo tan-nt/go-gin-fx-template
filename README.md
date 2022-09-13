@@ -13,3 +13,4 @@ An organized template for Go to:
 - [Fx dependency uber](https://github.com/uber-go/fx/blob/master/README.md)
 - [Golang project layout](https://github.com/golang-standards/project-layout)
 - [Graceful shutdowns cloud run](https://cloud.google.com/blog/topics/developers-practitioners/graceful-shutdowns-cloud-run-deep-dive)
+- [cloudrun-sigterm-handler](https://cloud.google.com/run/docs/samples/cloudrun-sigterm-handler)
