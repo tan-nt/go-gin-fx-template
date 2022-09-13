@@ -2,11 +2,11 @@
 
 An organized template for Go to:
 - build a well-structure repository
-- save time to build everything from scratch to focus more on business logics
+- save time for building everything from scratch to focus more on business logics
 
 ## Why?
 - Go gin is simple, has a fast performance and highly-detailed error
-- Dismiss the need for global state, so fast to register dependencies.
+- Fx dependency helps dismiss the need for global state, so fast to register dependencies.
 
 ## References
 - [Go gin](https://github.com/gin-gonic/gin)
