@@ -14,4 +14,4 @@ An organized template for Go to:
 - [Golang project layout](https://github.com/golang-standards/project-layout)
 - [Graceful shutdowns cloud run](https://cloud.google.com/blog/topics/developers-practitioners/graceful-shutdowns-cloud-run-deep-dive)
 - [cloudrun-sigterm-handler](https://cloud.google.com/run/docs/samples/cloudrun-sigterm-handler)
-- [photoprism] https://github.com/photoprism/photoprism
+- [Photoprism repo](https://github.com/photoprism/photoprism)
